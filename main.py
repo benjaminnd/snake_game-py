@@ -1,6 +1,6 @@
 import random
 import curses
-
+# this game use curse library which can be run only on Unix and IOS
 # initialize screen using curses
 screen = curses.initscr()
 #make the cursor invisible
